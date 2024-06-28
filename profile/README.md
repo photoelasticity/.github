@@ -8,3 +8,7 @@ We are a team of physicists and engineers, working together to provide open-sour
 * Karen E. Daniels, Jonathan E. Kollmer, and James G. Puckett. "Photoelastic Force Measurements in Granular Materials." *Review of Scientific Instruments* 88: 051808. (2017) <https://doi.org/10.1063/1.4983049>
 * Ahgil Abed Zadeh, Jonathan Bares, Theodore A. Brzinski, Karen E. Daniels, Joshua Dijksman, Nicolas Docquier, Henry O. Everitt, et al. “Enlightening Force Chains: A Review of Photoelasticimetry in Granular Matter.” *Granular Matter* 21: 83 (2019) <https://doi.org/10.1007/s10035-019-0942-2>
 
+# Packages
+
+* PEGS-1.0: This is a fork from <https://github.com/jekollmer/PEGS>
+* PEGS-2.0: coming soon ... a more modular version of the above, with more community-contributed modules
