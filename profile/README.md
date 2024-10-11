@@ -15,7 +15,7 @@ We are a team of physicists and engineers, working together to provide open-sour
 ## Packages
 
 * PEGS-1.0: This is a fork from <https://github.com/jekollmer/PEGS>
-* PEGS-2.0: coming soon ... a more modular version of the above, with more community-contributed modules
+* PEGS-2.0: <https://github.com/photoelasticity/PeGS2> contains a modularized version which is more convenient to use and adapt, along with some new features.
 * Miro board: <https://miro.com/app/board/uXjVK6XCZyE=/>
 
 ## License
